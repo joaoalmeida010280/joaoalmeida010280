@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/joaoalmeida010280">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjetoIntegradods03&show_icons=true&theme=merko&include_all_commits=true&count_public=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoIntegradods03&layout=compact&langs_count=7&theme=merko"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoalmeida010280&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalmeida010280&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
   &nbsp;
