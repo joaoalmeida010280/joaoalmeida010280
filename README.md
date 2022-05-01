@@ -1,4 +1,4 @@
-## Opaa! Eu sou o João Almeida, Bem-vindos ao meu perfil.
+## Opa! Eu sou o João Almeida, Bem-vindos ao meu perfil.
 
 <div align="center">
   <a href="https://github.com/joaoalmeida010280">
