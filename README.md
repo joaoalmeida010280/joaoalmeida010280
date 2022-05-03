@@ -12,6 +12,3 @@
   <div align="center"> 
    <a href = "mailto:joaoalmeida010280@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   </div>
-
-
-   ![jett-wow](https://user-images.githubusercontent.com/99884988/166127297-3956be17-a4bd-4761-a05a-0d88b83b93ff.gif) 
